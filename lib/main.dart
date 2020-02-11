@@ -32,7 +32,7 @@ class _HomeState extends State<Home> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              "Pessoas $_people",
+              "People: $_people",
               style:
                   TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
             ),
@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
               ],
             ),
             Text(
-              "Pode entrar!",
+              "Join Us!",
               style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),
             )
           ],

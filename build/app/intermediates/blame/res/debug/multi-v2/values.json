@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/home/juliocesar/estudos-flutter/contador-de-pessoas/contador_de_pessoas/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/juliocesar/person-counter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/home/juliocesar/estudos-flutter/contador-de-pessoas/contador_de_pessoas/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "134,777",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "426,937"
-                    },
-                    "to": {
-                        "startLines": "41,46",
-                        "startColumns": "4,4",
-                        "startOffsets": "2477,2774",
-                        "endLines": "45,48",
-                        "endColumns": "12,12",
-                        "endOffsets": "2769,2934"
-                    }
-                },
                 {
                     "source": "/home/juliocesar/.gradle/caches/transforms-2/files-2.1/ae13efc3dbae5c9ee58d4933337fcd21/coordinatorlayout-1.0.0/res/values/values.xml",
                     "from": {
@@ -39,6 +20,25 @@
                         "endLines": "2,64,81,170",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "111,3976,4882,10093"
+                    }
+                },
+                {
+                    "source": "/home/juliocesar/person-counter/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "134,777",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "426,937"
+                    },
+                    "to": {
+                        "startLines": "41,46",
+                        "startColumns": "4,4",
+                        "startOffsets": "2477,2774",
+                        "endLines": "45,48",
+                        "endColumns": "12,12",
+                        "endOffsets": "2769,2934"
                     }
                 },
                 {
